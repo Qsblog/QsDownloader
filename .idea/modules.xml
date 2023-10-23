@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/code/1-powerdownloader/1-powerdownloader.iml" filepath="$PROJECT_DIR$/code/1-powerdownloader/1-powerdownloader.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code/2-powerdownloader/2-powerdownloader.iml" filepath="$PROJECT_DIR$/code/2-powerdownloader/2-powerdownloader.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code/3-powerdownloader/3-powerdownloader.iml" filepath="$PROJECT_DIR$/code/3-powerdownloader/3-powerdownloader.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code/4-powerdownloader/4-powerdownloader.iml" filepath="$PROJECT_DIR$/code/4-powerdownloader/4-powerdownloader.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code/5-powerdownloader/5-powerdownloader.iml" filepath="$PROJECT_DIR$/code/5-powerdownloader/5-powerdownloader.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/QsDownloader.iml" filepath="$PROJECT_DIR$/.idea/QsDownloader.iml" />
+    </modules>
+  </component>
+</project>

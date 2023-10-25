@@ -25,6 +25,9 @@ public class Main {
         // https://dlcdn.apache.org/tomcat/tomcat-10/v10.1.15/bin/apache-tomcat-10.1.15-windows-x64.zip
         Downloader downloader = new Downloader();
 //        downloader.normalDownload(url);
-        downloader.scheduledExecutorDownload(url);
+//        downloader.scheduledExecutorDownload(url);
+//        downloader.splitDownload(url);
+//        downloader.mergeDownload(url);
+        downloader.download(url);
     }
 }
